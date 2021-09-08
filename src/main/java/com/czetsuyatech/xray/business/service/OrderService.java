@@ -1,4 +1,4 @@
-package com.czetsuya.xray.business.service;
+package com.czetsuyatech.xray.business.service;
 
 import com.amazonaws.xray.spring.aop.XRayEnabled;
 import org.springframework.stereotype.Service;

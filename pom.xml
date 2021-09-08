@@ -8,7 +8,7 @@
     <version>2.5.4</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com.czetsuya</groupId>
+  <groupId>com.czetsuyatech</groupId>
   <artifactId>spring-aws-xray-training</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>spring-aws-xray-training</name>
@@ -17,6 +17,11 @@
     <java.version>11</java.version>
   </properties>
   <dependencies>
+    <dependency>
+      <groupId>org.springdoc</groupId>
+      <artifactId>springdoc-openapi-ui</artifactId>
+      <version>1.5.10</version>
+    </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-aop</artifactId>

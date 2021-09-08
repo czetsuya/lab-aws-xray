@@ -1,6 +1,6 @@
-package com.czetsuya.xray.web.application;
+package com.czetsuyatech.xray.web.application;
 
-import com.czetsuya.xray.business.service.OrderService;
+import com.czetsuyatech.xray.business.service.OrderService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

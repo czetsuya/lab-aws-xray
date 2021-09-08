@@ -1,4 +1,4 @@
-package com.czetsuya.xray.core.config;
+package com.czetsuyatech.xray.core.config;
 
 import com.amazonaws.xray.javax.servlet.AWSXRayServletFilter;
 import javax.servlet.Filter;
